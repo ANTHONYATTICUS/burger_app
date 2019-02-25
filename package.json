@@ -1,0 +1,15 @@
+{
+  "name": "hamburgerhomework",
+  "version": "1.0.0",
+  "description": "hamburger app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "anthony rodriguez",
+  "license": "ISC",
+  "dependencies": {
+    "express-handlebars": "^3.0.2"
+  }
+}
